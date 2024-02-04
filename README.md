@@ -1,5 +1,5 @@
 <b>Управление стеклоподъемниками авто</b>
-<h2>Схема подключения</h2>
+<h2>Схема подключения для водительской двери</h2>
 
 <table>
     <tr>
@@ -74,3 +74,79 @@
         <td></td>
         <td></td>
     </tr>
+	
+<h2>Схема подключения для обычной двери</h2>
+<table>
+    <tr>
+        <th>Пин Arduino</th>
+        <th>Описание</th>
+        <th>Пин Arduino</th>
+        <th>Описание</th>
+    </tr>
+    <tr>
+        <td>D2</td>
+        <td></td>
+        <td>A0</td>
+        <td>кнопка верх/вниз</td>
+    </tr>
+    <tr>
+        <td>D3</td>
+        <td></td>
+        <td>A1</td>
+        <td>сигнал с вод двери</td>
+    </tr>
+    <tr>
+        <td>D4</td>
+        <td></td>
+        <td>A2</td>
+        <td>датчик тока</td>
+    </tr>
+    <tr>
+        <td>D5</td>
+        <td></td>
+        <td>A3</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>D6</td>
+        <td></td>
+        <td>A4</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>D7</td>
+        <td></td>
+        <td>A5</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>D8</td>
+        <td></td>
+        <td>A6</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>D9</td>
+        <td>реле1</td>
+        <td>A7</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>D10</td>
+        <td>реле2</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>D11</td>
+        <td>шим подсветка</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>D12</td>
+        <td>сигнал с цз</td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
