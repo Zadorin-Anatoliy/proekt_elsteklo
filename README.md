@@ -154,8 +154,14 @@
 
 <div>
 <center><b>Схема включения автомобильного реле через транзистор bc337-40</b></center>  
-<img src="управление реле через bc337.jpg">
+<img src="img/управление реле через bc337.jpg">
+<br>
+<center><b>Распиновка транзистора bc337</b></center>  
+<img src="img/pin bc-337">
 <br>
 <center><b>Схема прототипа (вариант 1)</b></center>  
-<img src="прототип 1.jpg">
+<img src="img/прототип 1.jpg">
+<br>
+<center><b>Схема прототипа (вариант 2)</b></center>  
+<img src="img/Prototip2.jpg">
 </div>
