@@ -164,4 +164,7 @@
 <br>
 <center><b>Схема прототипа (вариант 2)</b></center>  
 <img src="img/Prototip2.png">
+<center><b>Схема прототипа (вариант 3)</b></center>  
+<ins>88</ins>
+<img src="img/Prototip3.png">
 </div>
