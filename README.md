@@ -171,4 +171,7 @@
 <img src="img/Prototip3.png">
 <center><b>Вид готовой платы</b></center>  
 <img src="img/IMG_20240524_182133.jpg">
+<center><b>Вид платы после распайки основных компонентов</b></center>  
+<img src="img/IMG_20240525_183730.jpg">
+<img src="img/IMG_20240525_192545.jpg">
 </div>
