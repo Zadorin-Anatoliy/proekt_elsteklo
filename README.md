@@ -175,5 +175,5 @@
 <img src="img/IMG_20240525_183730.jpg">
 <img src="img/IMG_20240525_192545.jpg">
 <center><b>Схема версии 2.0 </b></center>  
-<img src="img/Schematic_steklo-v2_2024-07-09.jpg">
+<img src="img/Schematic_steklo-v2_2024-07-09.png">
 </div>
